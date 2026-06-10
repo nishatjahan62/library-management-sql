@@ -32,9 +32,3 @@ A hands-on PostgreSQL project for building and querying a fully structured libra
 
 -  PostgreSQL 18
 -  Beekeeper Studio
-
----
-
-## 👨‍💻 Author
-
-Built by [@nishatjahan62](https://github.com/nishatjahan62) as part of a structured SQL learning path.
