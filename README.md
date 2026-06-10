@@ -1,6 +1,6 @@
 # 📚 Library Management SQL
 
-A hands-on PostgreSQL project for building and querying a fully structured library management system — covering everything from schema design to advanced filtering and functions.
+A hands-on raw SQL PostgreSQL project for building and querying a fully structured library management system — covering everything from schema design to advanced filtering and functions.
 
 ---
 
